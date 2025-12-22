@@ -1,4 +1,5 @@
 <div align="center">
+
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
@@ -34,17 +35,17 @@
 
 ```typescript
 
-                            const ratul: Developer = {
-                            name: "Mahmud Hasan Ratul",
-                            role: "Full Stack Developer & AI Engineer",
-                            location: "Dhaka, Bangladesh 🇧🇩",
-                            education: "CSE @ Daffodil International University",
-                            languages: ["JavaScript", "TypeScript", "SQL"],
-                            focus: ["AI/ML Integration", "Scalable Systems", "Product Development"],
-                            available: true  // 🟢 Open for Opportunities
-                            };
+const ratul: Developer = {
+  name: "Mahmud Hasan Ratul",
+  role: "Full Stack Developer & AI Engineer",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  education: "CSE @ Daffodil International University",
+  languages: ["JavaScript", "TypeScript", "SQL"],
+  focus: ["AI/ML Integration", "Scalable Systems", "Product Development"],
+  available: true  // 🟢 Open for Opportunities
+};
 
-                            export default ratul;
+export default ratul;
 ```
 
 </div>
@@ -429,17 +430,17 @@ console.log(ratul.buildProduct()); // Ready to create amazing things!
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║                      🤝 OPEN FOR OPPORTUNITIES                    ║
+║                      OPEN FOR OPPORTUNITIES                       ║
 ║                                                                   ║
-║   Full-Time Roles  •  Freelance Projects  •  Collaborations      ║
+║   Full-Time Roles  •  Freelance Projects  •  Collaborations       ║
 ║                                                                   ║
 ╠═══════════════════════════════════════════════════════════════════╣
 ║                                                                   ║
-║   📍 Location: Dhaka, Bangladesh 🇧🇩               ║
+║   📍 Location: Dhaka, Bangladesh 🇧🇩                              ║
 ║   🕐 Timezone: Asia/Dhaka (GMT+6)                                ║
-║   ⚡ Response Time: < 24 hours                                    ║
+║   ⚡ Response Time: < 24 hours                                   ║
 ║   💬 Preferred: Email or LinkedIn                                ║
-║   🟢 Status: Available Now                                        ║
+║   🟢 Status: Available Now                                       ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
@@ -459,9 +460,9 @@ console.log(ratul.buildProduct()); // Ready to create amazing things!
 # Quick Contact Card
 email: m.h.ratul18@gmail.com
 linkedin: linkedin.com/in/mahmud-hasan-ratul
-github: github.com/Rtul-NotFound
+github: github.com/ratul-notfound
 availability: ✅ Open for opportunities
-best_for: Part-time roles, freelance projects, tech collaborations
+best_for: Full-time roles, freelance projects, tech collaborations
 interests: AI/ML, Full-stack development, SaaS products, Open source
 ```
 
@@ -474,8 +475,8 @@ interests: AI/ML, Full-stack development, SaaS products, Open source
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║   "Code is like humor. When you have to explain it, it's bad."   ║
-║                          - Cory House                            ║
+║   "Code is like humor. When you have to explain it, it's bad."    ║
+║                          - Cory House                             ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
