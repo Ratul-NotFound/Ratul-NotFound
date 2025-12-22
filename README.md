@@ -35,15 +35,15 @@
 
 ```typescript
 
-const ratul: Developer = {
-  name: "Mahmud Hasan Ratul",
-  role: "Full Stack Developer & AI Engineer",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  education: "CSE @ Daffodil International University",
-  languages: ["JavaScript", "TypeScript", "SQL"],
-  focus: ["AI/ML Integration", "Scalable Systems", "Product Development"],
-  available: true  // 🟢 Open for Opportunities
-};
+                                            const ratul: Developer = {
+                                            name: "Mahmud Hasan Ratul",
+                                            role: "Full Stack Developer & AI Engineer",
+                                            location: "Dhaka, Bangladesh 🇧🇩",
+                                            education: "CSE @ Daffodil International University",
+                                            languages: ["JavaScript", "TypeScript", "SQL"],
+                                            focus: ["AI/ML Integration", "Scalable Systems", "Product Development"],
+                                            available: true  // 🟢 Open for Opportunities
+                                            };
 
 export default ratul;
 ```
