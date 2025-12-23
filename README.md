@@ -333,7 +333,7 @@ Tech Stack:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ratul-notfound&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=ratul-notfound&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=00d9ff&currStreakNum=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-notfound&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-notfound&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&hide=c++" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ratul-notfound&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=c9d1d9" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ratul-notfound&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ratul-notfound)
