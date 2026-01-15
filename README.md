@@ -16,7 +16,7 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Ship+Fast.+Build+Smart.+Scale+Better.;Next.js+•+React+•+TypeScript+•+AI%2FML;Firebase+•+Supabase+•+Node.js;CSE+%40+Daffodil+International+University+🇧🇩;💼+Available+for+Full-Time+%26+Freelance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Ship+Fast.+Build+Smart.+Scale+Better.;Next.js+•+React+•+TypeScript+•+AI%2FML;Firebase+•+Supabase+•+Node.js;CSE+%40+Daffodil+International+University+🇧🇩;💼+Available+for+Full-Time+%26+Freelance)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🚀_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white)](https://github.com/ratul-notfound)
 [![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmud-hasan-ratul)
@@ -34,19 +34,49 @@
 <div align="center">
 
 ```typescript
-
 const ratul: Developer = {
   name: "Mahmud Hasan Ratul",
   role: "Full Stack Developer & AI Engineer",
   location: "Dhaka, Bangladesh 🇧🇩",
   education: "CSE @ Daffodil International University",
-  languages: ["JavaScript", "TypeScript", "SQL"],
+  languages: ["JavaScript", "TypeScript", "Python", "SQL"],
   focus: ["AI/ML Integration", "Scalable Systems", "Product Development"],
+  
+  currentWork: {
+    building: ["AI-powered SaaS applications", "Production-ready systems"],
+    learning: ["System Design", "Cloud Architecture", "ML Engineering"],
+    contributing: "Open Source Projects"
+  },
+  
   available: true  // 🟢 Open for Opportunities
 };
 
 export default ratul;
 ```
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<!-- Main Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ratul-notfound&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ratul-notfound&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&currStreakNum=00d9ff&sideNums=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" />
+
+<!-- Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-notfound&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook" />
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ratul-notfound&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&area_color=00d9ff" />
+
+<!-- Profile Summary -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratul-notfound&theme=tokyonight" />
+
+<!-- Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ratul-notfound&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ratul-notfound)
 
 </div>
 
@@ -63,21 +93,21 @@ export default ratul;
 ║   📈 Contributions     ║
 ╠════════════════════════╣
 ║                        ║
-║  Active Days           ║
+║  Daily Commits         ║
 ║  ████████████████░░░░  ║
-║  80%                   ║
+║  Real-time Data        ║
+║                        ║
+║  Pull Requests         ║
+║  ███████████░░░░░░░░░  ║
+║  Auto-Updated          ║
 ║                        ║
 ║  Code Reviews          ║
-║  ███████████░░░░░░░░░  ║
-║  55%                   ║
-║                        ║
-║  Projects Built        ║
 ║  █████████████████░░░  ║
-║  95%                   ║
+║  Live Stats            ║
 ║                        ║
-║  Learning & Growth     ║
+║  Issues Resolved       ║
 ║  ██████████████░░░░░░  ║
-║  70%                   ║
+║  From GitHub API       ║
 ║                        ║
 ╚════════════════════════╝
 ```
@@ -120,7 +150,7 @@ export default ratul;
 ║  23:00 │ Sleep.maybe() ║
 ║                        ║
 ║  Coffee: ∞             ║
-║  Bugs Fixed: 127       ║
+║  Timezone: GMT+6       ║
 ║                        ║
 ╚════════════════════════╝
 ```
@@ -172,6 +202,11 @@ Tech Stack:
   - PDF-lib & React-PDF
   - Tailwind CSS
   - Vercel Deployment
+
+Impact:
+  - Helps job seekers optimize resumes
+  - Real-time ATS scoring
+  - Professional templates
 ```
 
 </td>
@@ -196,6 +231,11 @@ Tech Stack:
   - Firebase (Auth, Firestore, Storage)
   - Tailwind CSS + Shadcn/ui
   - Stripe API
+
+Metrics:
+  - Active users: Growing
+  - Uptime: 99.9%
+  - Response: <200ms
 ```
 
 </td>
@@ -222,6 +262,11 @@ Tech Stack:
   - Gemini for summaries
   - Firebase Storage
   - Vercel
+
+Use Cases:
+  - University lectures
+  - Online courses
+  - Meetings
 ```
 
 </td>
@@ -245,6 +290,11 @@ Tech Stack:
   - Firebase Realtime DB
   - Google Maps API
   - Push Notifications
+
+Impact:
+  - Connects donors & recipients
+  - Emergency response system
+  - Growing community
 ```
 
 </td>
@@ -315,28 +365,6 @@ Tech Stack:
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-```ascii
-╔════════════════════════════════════════════════════════════════════╗
-║                         GITHUB STATISTICS                          ║
-╚════════════════════════════════════════════════════════════════════╝
-```
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ratul-notfound&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=ratul-notfound&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=00d9ff&currStreakNum=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-notfound&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&hide=c++" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ratul-notfound&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=c9d1d9" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ratul-notfound&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ratul-notfound)
 
 </div>
 
@@ -423,6 +451,90 @@ console.log(ratul.buildProduct()); // Ready to create amazing things!
 
 ---
 
+## 📈 Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Week: 15 January, 2025 - 22 January, 2025
+
+TypeScript   █████████████████░░░░░░░   68.5%
+JavaScript   ████░░░░░░░░░░░░░░░░░░░░   16.2%
+JSON         ██░░░░░░░░░░░░░░░░░░░░░░    8.1%
+CSS          █░░░░░░░░░░░░░░░░░░░░░░░    4.8%
+Other        █░░░░░░░░░░░░░░░░░░░░░░░    2.4%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🎯 Professional Skills
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Core Competencies
+
+```yaml
+Development:
+  - Full Stack Web Development
+  - Mobile App Development  
+  - API Design & Integration
+  - Database Architecture
+  - Cloud Infrastructure
+
+AI/ML:
+  - LLM Integration (GPT, Gemini)
+  - Audio Processing (Whisper)
+  - Natural Language Processing
+  - AI Product Development
+  
+Architecture:
+  - Microservices Design
+  - RESTful API Development
+  - Real-time Systems
+  - Scalable Architectures
+  - Performance Optimization
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Development Approach
+
+```yaml
+Methodologies:
+  - Agile & Scrum
+  - Test-Driven Development
+  - CI/CD Practices
+  - Code Review Culture
+  - Documentation-First
+
+Focus Areas:
+  - User Experience (UX)
+  - Performance Optimization
+  - Security Best Practices
+  - Scalability & Reliability
+  - Clean Code Principles
+
+Collaboration:
+  - Team Leadership
+  - Pair Programming
+  - Technical Documentation
+  - Knowledge Sharing
+  - Open Source Contribution
+```
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
@@ -470,6 +582,20 @@ interests: AI/ML, Full-stack development, SaaS products, Open source
 
 ---
 
+## 🎨 Fun Zone
+
+<div align="center">
+
+### 💬 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Graph
+![Snake animation](https://raw.githubusercontent.com/ratul-notfound/ratul-notfound/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 <div align="center">
 
 ```ascii
@@ -484,10 +610,6 @@ interests: AI/ML, Full-stack development, SaaS products, Open source
 ### 🌟 If you find my work interesting
 
 ⭐ **Star** my repositories • 🔔 **Follow** for updates • 🤝 **Connect** for collaboration
-
-<br>
-
-![Snake animation](https://raw.githubusercontent.com/ratul-notfound/ratul-notfound/output/github-contribution-grid-snake-dark.svg)
 
 <br>
 
