@@ -165,12 +165,16 @@ export default ratul;
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status | Links |
-|---------|-------------|------------|--------|-------|
-| **🤖 CV Maker AI** | AI-Powered Resume Optimizer with ATS scoring | `Next.js` `Gemini` `PDF-lib` | 🟢 **Production** | [![Live](https://img.shields.io/badge/Live-00D9FF?style=flat-square)](https://github.com/ratul-notfound/cv-maker-ai) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ratul-notfound/cv-maker-ai) |
-| **🛍️ Orivo** | Full-Scale eCommerce Platform with 20+ features | `Next.js` `Firebase` `Tailwind` | 🟢 **Live & Scaling** | [![Live](https://img.shields.io/badge/Live-00D9FF?style=flat-square)](https://github.com/ratul-notfound/orivo) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ratul-notfound/orivo) |
-| **🎓 Lecture AI** | Audio to Smart Notes Converter for students | `React` `Whisper` `Vercel` | 🔨 **Development** | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ratul-notfound/lecture-ai) |
-| **🩸 BloodNet** | Emergency Blood Donation Network with GPS | `Firebase` `Maps API` `Geolocation` | 🟢 **Community Active** | [![Live](https://img.shields.io/badge/Live-00D9FF?style=flat-square)](https://github.com/ratul-notfound/bloodnet) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ratul-notfound/bloodnet) |
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|-----------|-------|
+| **CV Maker AI** | AI-powered resume builder with ATS scoring and real-time PDF export. | Next.js, JavaScript, AI, PDF-lib | [Repo](https://github.com/Ratul-NotFound/CV-Maker-Ai) \| [Live](https://cv-maker-ai-three.vercel.app) |
+| **lecture-ai-pro** | Lecture transcription and AI-driven note generator web app for students and professionals. | Next.js, JavaScript, AI | [Repo](https://github.com/Ratul-NotFound/lecture-ai-pro) \| [Live](https://lecture-ai-self.vercel.app) |
+| **NeuroStack** | (Add description: e.g., Real-time neural data visualization & analytics toolkit.) | (Add stack, e.g. React, Node.js) | [Repo](https://github.com/Ratul-NotFound/NeuroStack) \| [Live](https://nuro-stack.vercel.app) |
+| **UniVibe** | (Add description: e.g., Social app for campus communities built on NeuroStack platform.) | TypeScript, React | [Repo](https://github.com/Ratul-NotFound/UniVibe) \| [Live](https://neurostackv1.vercel.app/) |
+| **ArtVince-Academy-2** | (Add description: e.g., E-learning platform for creative arts and workshops.) | TypeScript, Next.js | [Repo](https://github.com/Ratul-NotFound/ArtVince-Academy-2) \| [Live](https://art-vince-academy.vercel.app) |
+| **OrivoNAS** | (Add description: e.g., Cloud-based personal NAS system for file storage and sharing.) | (Add stack, e.g., Node.js, Express, MongoDB) | [Repo](https://github.com/Ratul-NotFound/OrivoNAS) |
 
 </div>
 
