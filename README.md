@@ -18,24 +18,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Ship+Fast.+Build+Smart.+Scale+Better.;Next.js+•+React+•+TypeScript+•+AI%2FML;Firebase+•+Supabase+•+Node.js;CSE+%40+Daffodil+International+University+🇧🇩;💼+Available+for+Full-Time+%26+Freelance)](https://git.io/typing-svg)
 
-<table align="center">
+<table align="center" border="0">
 <tr>
 <td align="center" valign="middle">
-
-```ascii
-           ⢀⣴⣶⣶⣶⣶⣶⣦⡀
-         ⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀
-         ⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷
-        ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
-        ⢸⣿⣿⣿⠟⠁⠀⠈⠻⣿⣿⣿⡇
-        ⢸⣿⣿⡇⠐⠿⠀⠸⠿⢸⣿⣿⡇
-        ⠘⣿⣿⣇⠀⢀⣀⣀⠀⣸⣿⣿⠃
-         ⢻⣿⣿⣷⣄⣉⣉⣠⣾⣿⣿⡟
-          ⠻⣿⣿⣿⣿⣿⣿⣿⣿⠟
-          ⣠⣼⣿⣿⣿⣿⣿⣿⣧⣄
-        ⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆
-```
-
+  <img src="./assets/ratul-pixel.svg" width="160" height="160" alt="Mahmud Hasan Ratul" />
 </td>
 <td align="left" valign="middle">
   <a href="https://github.com/ratul-notfound"><img src="https://img.shields.io/badge/🚀_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
