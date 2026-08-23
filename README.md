@@ -18,14 +18,24 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Ship+Fast.+Build+Smart.+Scale+Better.;Next.js+•+React+•+TypeScript+•+AI%2FML;Firebase+•+Supabase+•+Node.js;CSE+%40+Daffodil+International+University+🇧🇩;💼+Available+for+Full-Time+%26+Freelance)](https://git.io/typing-svg)
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/🚀_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white)](https://github.com/ratul-notfound)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmud-hasan-ratul)
-[![Email](https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.h.ratul18@gmail.com)
-[![GitHub](https://img.shields.io/badge/⭐_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ratul-notfound)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ratul-notfound&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+<table align="center">
+<tr>
+<td align="center" valign="middle">
+  <a href="https://github.com/Ratul-NotFound">
+    <img src="https://github.com/Ratul-NotFound.png" width="120" height="120" style="border-radius: 50%;" alt="Mahmud Hasan Ratul" />
+  </a>
+</td>
+<td align="left" valign="middle">
+  <a href="https://github.com/ratul-notfound"><img src="https://img.shields.io/badge/🚀_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/mahmud-hasan-ratul"><img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <br>
+  <a href="mailto:m.h.ratul18@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ratul-notfound"><img src="https://img.shields.io/badge/⭐_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ratul-notfound&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</td>
+</tr>
+</table>
 
 </div>
 
