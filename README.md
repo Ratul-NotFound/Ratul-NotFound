@@ -21,9 +21,21 @@
 <table align="center">
 <tr>
 <td align="center" valign="middle">
-  <a href="https://github.com/Ratul-NotFound">
-    <img src="https://github.com/Ratul-NotFound.png" width="120" height="120" style="border-radius: 50%;" alt="Mahmud Hasan Ratul" />
-  </a>
+
+```ascii
+           ⢀⣴⣶⣶⣶⣶⣶⣦⡀
+         ⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀
+         ⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷
+        ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+        ⢸⣿⣿⣿⠟⠁⠀⠈⠻⣿⣿⣿⡇
+        ⢸⣿⣿⡇⠐⠿⠀⠸⠿⢸⣿⣿⡇
+        ⠘⣿⣿⣇⠀⢀⣀⣀⠀⣸⣿⣿⠃
+         ⢻⣿⣿⣷⣄⣉⣉⣠⣾⣿⣿⡟
+          ⠻⣿⣿⣿⣿⣿⣿⣿⣿⠟
+          ⣠⣼⣿⣿⣿⣿⣿⣿⣧⣄
+        ⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆
+```
+
 </td>
 <td align="left" valign="middle">
   <a href="https://github.com/ratul-notfound"><img src="https://img.shields.io/badge/🚀_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
