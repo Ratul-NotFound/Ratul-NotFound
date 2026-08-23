@@ -30,7 +30,6 @@
 ---
 
 ## 🎯 About Me
-
 <div align="center">
 
 ```typescript
@@ -59,31 +58,46 @@ export default ratul;
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
 
-<!-- Main Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ratul-notfound&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ratul-notfound&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&currStreakNum=00d9ff&sideNums=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" />
+<table border="0" align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/Ratul-NotFound">
+        <img height="200" src="https://github-stats-extended.vercel.app/api?username=Ratul-NotFound&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/Ratul-NotFound">
+        <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ratul-NotFound&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&hide=Jupyter%20Notebook" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/Ratul-NotFound">
+        <img width="830" src="https://github-readme-streak-stats.herokuapp.com/?user=Ratul-NotFound&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&currStreakNum=00d9ff&sideNums=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Ratul-NotFound&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&area_color=00d9ff" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
 
-<!-- Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-notfound&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook" />
+<br>
 
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ratul-notfound&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&area_color=00d9ff" />
-
-<!-- Profile Summary -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratul-notfound&theme=tokyonight" />
-
-<!-- Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ratul-notfound&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ratul-notfound)
+<a href="https://github.com/Ratul-NotFound">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Ratul-NotFound&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+</a>
 
 </div>
 
 ---
 
 ## 📊 Performance Metrics
-
 <table align="center">
 <tr>
 <td valign="top" width="33%">
@@ -162,10 +176,7 @@ export default ratul;
 ---
 
 ## 🚀 Featured Projects
-
 <div align="center">
-
-## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|-----------|-------|
@@ -310,7 +321,6 @@ Impact:
 ---
 
 ## 🛠️ Tech Arsenal
-
 <div align="center">
 
 ```ascii
@@ -375,7 +385,6 @@ Impact:
 ---
 
 ## 💭 Developer Philosophy
-
 <div align="center">
 
 ```javascript
@@ -401,7 +410,6 @@ const philosophy = {
 ---
 
 ## 📈 Coding Activity
-
 <div align="center">
 
 <!--START_SECTION:waka-->
@@ -421,13 +429,11 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 ---
 
 ## 🎯 Professional Skills
-
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
 ### 💼 Core Competencies
-
 ```yaml
 Development:
   - Full Stack Web Development
@@ -454,7 +460,6 @@ Architecture:
 <td width="50%" valign="top">
 
 ### 📊 Development Approach
-
 ```yaml
 Methodologies:
   - Agile & Scrum
@@ -484,8 +489,6 @@ Collaboration:
 
 ---
 
-## 📫 Let's Connect & Collaborate
-
 <div align="center">
 
 ```ascii
@@ -508,8 +511,6 @@ Collaboration:
 
 <br>
 
-### 📬 Contact Channels
-
 [![Email](https://img.shields.io/badge/📧_m.h.ratul18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.h.ratul18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_Mahmud_Hasan_Ratul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmud-hasan-ratul)
 [![GitHub](https://img.shields.io/badge/⚡_@ratul--notfound-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ratul-notfound)
@@ -530,8 +531,6 @@ interests: AI/ML, Full-stack development, SaaS products, Open source
 </div>
 
 ---
-
-## 🎨 Fun Zone
 
 <div align="center">
 
@@ -557,7 +556,6 @@ interests: AI/ML, Full-stack development, SaaS products, Open source
 ```
 
 ### 🌟 If you find my work interesting
-
 ⭐ **Star** my repositories • 🔔 **Follow** for updates • 🤝 **Connect** for collaboration
 
 <br>
