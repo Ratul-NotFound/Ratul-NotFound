@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ratul-notfound"><img src="./assets/btn-portfolio.svg" width="120" alt="Portfolio" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mahmud-hasan-ratul"><img src="./assets/btn-linkedin.svg" width="120" alt="LinkedIn" /></a>
+  <a href="https://ratul-dev.vercel.app/"><img src="./assets/btn-portfolio.svg" width="120" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mahmud-hasan-ratul"><img src="./assets/btn-linkedin.svg" width="120" alt="LinkedIn" /></a>
   <br>
-  <a href="mailto:m.h.ratul18@gmail.com"><img src="./assets/btn-gmail.svg" width="120" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/ratul-notfound"><img src="./assets/btn-github.svg" width="120" alt="GitHub" /></a>
+  <a href="mailto:mhratul.dev@gmail.com"><img src="./assets/btn-gmail.svg" width="120" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Ratul-NotFound"><img src="./assets/btn-github.svg" width="120" alt="GitHub" /></a>
 </p>
 
 <p align="center">
@@ -99,14 +99,14 @@ mindset:  "🚀 Ship Fast • Iterate Faster • Scalable Architecture"
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|:---|:---|:---|:---|
-| **🤖 CV Maker AI** | AI-powered resume builder with ATS scoring and real-time PDF export. | Next.js, JavaScript, AI, PDF-lib | [Repo](https://github.com/Ratul-NotFound/CV-Maker-Ai) • [Live](https://cv-maker-ai-three.vercel.app) |
-| **🎓 Lecture AI Pro** | Lecture transcription & AI note generator for students and teams. | Next.js, OpenAI Whisper, Gemini | [Repo](https://github.com/Ratul-NotFound/lecture-ai-pro) • [Live](https://lecture-ai-self.vercel.app) |
-| **🧠 NeuroStack** | Real-time neural data visualization & intelligent developer toolkit. | React, TypeScript, Node.js | [Repo](https://github.com/Ratul-NotFound/NeuroStack) • [Live](https://nuro-stack.vercel.app) |
-| **🌐 UniVibe** | Campus community social platform with real-time networking. | TypeScript, React, Firebase | [Repo](https://github.com/Ratul-NotFound/UniVibe) • [Live](https://neurostackv1.vercel.app/) |
-| **🎨 ArtVince Academy** | Interactive e-learning platform for creative arts and workshops. | Next.js, TypeScript, Tailwind | [Repo](https://github.com/Ratul-NotFound/ArtVince-Academy-2) • [Live](https://art-vince-academy.vercel.app) |
-| **💾 OrivoNAS** | Cloud-based personal NAS platform for secure file storage & sharing. | Node.js, Express, MongoDB | [Repo](https://github.com/Ratul-NotFound/OrivoNAS) |
+| Project | Capabilities & Highlights | Built With | Quick Access |
+| :--- | :--- | :--- | :--- |
+| <a href="https://cv-maker-ai-three.vercel.app"><b>🤖 CV Maker AI</b></a> | AI ATS scoring, real-time PDF engine & tailored suggestions | `Next.js 14` `Gemini AI` `PDF-lib` `Tailwind` | [![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://cv-maker-ai-three.vercel.app) [![Code](https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Ratul-NotFound/CV-Maker-Ai) |
+| <a href="https://lecture-ai-self.vercel.app"><b>🎓 Lecture AI Pro</b></a> | Audio transcription, AI note extraction & study summaries | `Next.js 14` `Whisper AI` `Gemini` `TypeScript` | [![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://lecture-ai-self.vercel.app) [![Code](https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Ratul-NotFound/lecture-ai-pro) |
+| <a href="https://nuro-stack.vercel.app"><b>🧠 NeuroStack</b></a> | Neural data visualization & intelligent developer components | `React 18` `TypeScript` `Node.js` `Tailwind` | [![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://nuro-stack.vercel.app) [![Code](https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Ratul-NotFound/NeuroStack) |
+| <a href="https://neurostackv1.vercel.app/"><b>🌐 UniVibe</b></a> | Campus community platform with real-time student networking | `React` `TypeScript` `Firebase` `Tailwind` | [![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://neurostackv1.vercel.app/) [![Code](https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Ratul-NotFound/UniVibe) |
+| <a href="https://art-vince-academy.vercel.app"><b>🎨 ArtVince Academy</b></a> | Creative arts e-learning ecosystem & interactive workshops | `Next.js 14` `TypeScript` `Tailwind` `Vercel` | [![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://art-vince-academy.vercel.app) [![Code](https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Ratul-NotFound/ArtVince-Academy-2) |
+| <a href="https://github.com/Ratul-NotFound/OrivoNAS"><b>💾 OrivoNAS</b></a> | Cloud personal storage NAS system with streaming & sharing | `Node.js` `Express.js` `MongoDB` `REST` | [![Code](https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Ratul-NotFound/OrivoNAS) |
 
 </div>
 
@@ -164,64 +164,46 @@ Stack: [React Native, Firebase Realtime DB, Google Maps API, Push Notifications]
 
 ---
 
-## 📈 Coding Activity
+## 📈 Coding Activity & Philosophy
 
 <div align="center">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-</div>
-
----
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║                      OPEN FOR OPPORTUNITIES                       ║
-║                                                                   ║
-║   Full-Time Roles  •  Freelance Projects  •  Collaborations       ║
-║                                                                   ║
-╠═══════════════════════════════════════════════════════════════════╣
-║                                                                   ║
-║   📍 Location: Dhaka, Bangladesh 🇧🇩                              ║
-║   🕐 Timezone: Asia/Dhaka (GMT+6)                                ║
-║   ⚡ Response Time: < 24 hours                                   ║
-║   💬 Preferred: Email or LinkedIn                                ║
-║   🟢 Status: Available Now                                       ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
 <br>
 
-[![Email](https://img.shields.io/badge/📧_m.h.ratul18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.h.ratul18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Mahmud_Hasan_Ratul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmud-hasan-ratul)
-[![GitHub](https://img.shields.io/badge/⚡_@ratul--notfound-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ratul-notfound)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/ratul-notfound/ratul-notfound/output/github-contribution-grid-snake-dark.svg)
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+```yaml
+# 💼 Open for Opportunities
+status:        "🟢 Available for Full-Time Roles & High-Impact Freelance"
+location:      "Dhaka, Bangladesh 🇧🇩 (GMT+6)"
+response_time: "< 24 hours"
+focus_areas:   ["AI-Integrated Systems", "Next.js Full-Stack Apps", "Scalable Cloud Architecture"]
+```
 
 <br>
 
-```javascript
-// Thank you for visiting! 💙
-console.log("Let's build something amazing together! 🚀");
-```
+<a href="https://ratul-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ratul--dev.vercel.app-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>&nbsp;
+<a href="mailto:mhratul.dev@gmail.com"><img src="https://img.shields.io/badge/Email-mhratul.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mahmud-hasan-ratul"><img src="https://img.shields.io/badge/LinkedIn-mahmud--hasan--ratul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://github.com/Ratul-NotFound"><img src="https://img.shields.io/badge/GitHub-Ratul--NotFound-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-**Built with 💙 by Ratul** • **Powered by ☕ & countless hours of debugging**
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=fadeIn" />
+**Built with 💙 by Ratul** • **Powered by ☕ & continuous learning**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer&text=Let's%20Build%20The%20Future%20Together%20🚀&fontSize=24&fontColor=fff&animation=fadeIn" />
 
 </div>
