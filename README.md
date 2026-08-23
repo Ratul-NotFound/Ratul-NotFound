@@ -144,46 +144,21 @@ Stack: [React Native, Firebase Realtime DB, Google Maps API, Push Notifications]
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,nodejs,express,firebase,supabase,postgres,mongodb,redis,docker,git,github,vercel,vscode&theme=dark&perline=9)](https://skillicons.dev)
+**🌐 Languages & Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,redux&theme=dark" />
 
 <br><br>
 
-**⚡ Languages & Frontend**<br>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
+**⚙️ Backend, Cloud & Databases**
 <br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,postgres,mongodb,redis&theme=dark" />
 
-**⚙️ Backend & Databases**<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<br><br>
 
+**🤖 AI Engineering & Tools**
 <br>
-
-**🤖 AI/ML & Core APIs**<br>
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper_AI-00A67E?style=flat-square&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
-
-<br>
-
-**🚀 DevOps, Cloud & Tools**<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,fastapi,docker,git,github,vscode&theme=dark" />
 
 </div>
 
