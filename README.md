@@ -87,86 +87,46 @@ export default ratul;
   </tr>
 </table>
 
-<br>
-
-<a href="https://github.com/Ratul-NotFound">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Ratul-NotFound&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
-</a>
-
 </div>
 
 ---
 
-## 📊 Performance Metrics
-<table align="center">
+## ⚡ Focus & Developer Loop
+
+<table align="center" width="100%">
 <tr>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-```ascii
-╔════════════════════════╗
-║   📈 Contributions     ║
-╠════════════════════════╣
-║                        ║
-║  Daily Commits         ║
-║  ████████████████░░░░  ║
-║  Real-time Data        ║
-║                        ║
-║  Pull Requests         ║
-║  ███████████░░░░░░░░░  ║
-║  Auto-Updated          ║
-║                        ║
-║  Code Reviews          ║
-║  █████████████████░░░  ║
-║  Live Stats            ║
-║                        ║
-║  Issues Resolved       ║
-║  ██████████████░░░░░░  ║
-║  From GitHub API       ║
-║                        ║
-╚════════════════════════╝
+### 🎯 Current Focus
+- 🚀 **Next.js 14/15 & React**: Building high-performance full-stack web apps
+- 🤖 **AI/ML Integration**: LLM orchestration (Gemini, OpenAI, Whisper)
+- 🏗️ **System Design**: Microservices, RESTful APIs & real-time systems
+- ☁️ **Cloud & Databases**: Supabase, Firebase, PostgreSQL & MongoDB
+- ⚡ **Product Development**: Shipping user-centric SaaS products
+
+<br>
+
+```yaml
+status: 🟢 Active & Open for Collaboration
+mode: 🚀 Continuous Shipping
+focus: Enterprise Architecture & AI
 ```
 
 </td>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-```ascii
-╔════════════════════════╗
-║   🎯 Current Focus     ║
-╠════════════════════════╣
-║                        ║
-║  → Next.js & React     ║
-║  → AI/ML Integration   ║
-║  → System Design       ║
-║  → Cloud Architecture  ║
-║  → Product Dev         ║
-║  → Performance Opt     ║
-║                        ║
-║  Status: 🟢 Active     ║
-║  Mode: 🚀 Shipping     ║
-║                        ║
-╚════════════════════════╝
-```
+### 💻 Daily Routine
+```yaml
+08:00 : "☕ Coffee.exe && News.read()"
+09:00 : "🚀 Code.start() // Feature development"
+12:00 : "🔍 Debug.run() // System optimization"
+14:00 : "🔨 Build.new() // AI & Architecture"
+18:00 : "🚢 Deploy.prod() // CI/CD & Testing"
+20:00 : "📚 Learn.more() // Research & Open Source"
+23:00 : "😴 Sleep.maybe() // Recharge"
 
-</td>
-<td valign="top" width="33%">
-
-```ascii
-╔════════════════════════╗
-║   💻 Daily Routine     ║
-╠════════════════════════╣
-║                        ║
-║  08:00 │ Coffee.exe    ║
-║  09:00 │ Code.start()  ║
-║  12:00 │ Debug.run()   ║
-║  14:00 │ Build.new()   ║
-║  18:00 │ Deploy.prod() ║
-║  20:00 │ Learn.more()  ║
-║  23:00 │ Sleep.maybe() ║
-║                        ║
-║  Coffee: ∞             ║
-║  Timezone: GMT+6       ║
-║                        ║
-╚════════════════════════╝
+timezone: "Asia/Dhaka (GMT+6)"
+coffee_supply: "∞"
 ```
 
 </td>
