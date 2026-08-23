@@ -19,7 +19,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Ship+Fast.+Build+Smart.+Scale+Better.;Next.js+•+React+•+TypeScript+•+AI%2FML;Firebase+•+Supabase+•+Node.js;CSE+%40+Daffodil+International+University+🇧🇩;💼+Available+for+Full-Time+%26+Freelance)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="./assets/profile-card.svg" width="520" alt="Mahmud Hasan Ratul" />
+  <img src="./assets/profile-card.svg" width="500" alt="Mahmud Hasan Ratul" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Ratul-NotFound&color=00d9ff&style=flat-square&label=👁️+PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 </div>
