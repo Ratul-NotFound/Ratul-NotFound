@@ -19,8 +19,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Ship+Fast.+Build+Smart.+Scale+Better.;Next.js+•+React+•+TypeScript+•+AI%2FML;Firebase+•+Supabase+•+Node.js;CSE+%40+Daffodil+International+University+🇧🇩;💼+Available+for+Full-Time+%26+Freelance)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="./assets/ratul-hero-card.svg" width="500" alt="Mahmud Hasan Ratul" />
+  <img src="./assets/ratul-pixel.svg" width="180" height="180" align="center" alt="Mahmud Hasan Ratul" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ratul-notfound"><img src="./assets/btn-portfolio.svg" width="115" alt="Portfolio" /></a>&nbsp;
+  <a href="https://linkedin.com/in/mahmud-hasan-ratul"><img src="./assets/btn-linkedin.svg" width="115" alt="LinkedIn" /></a>
   <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:m.h.ratul18@gmail.com"><img src="./assets/btn-gmail.svg" width="115" alt="Email" /></a>&nbsp;
+  <a href="https://github.com/ratul-notfound"><img src="./assets/btn-github.svg" width="115" alt="GitHub" /></a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Ratul-NotFound&color=00d9ff&style=flat-square&label=👁️+PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
