@@ -19,13 +19,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Ship+Fast.+Build+Smart.+Scale+Better.;Next.js+•+React+•+TypeScript+•+AI%2FML;Firebase+•+Supabase+•+Node.js;CSE+%40+Daffodil+International+University+🇧🇩;💼+Available+for+Full-Time+%26+Freelance)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="./assets/ratul-pixel.svg" width="170" height="170" alt="Mahmud Hasan Ratul" />
-</p>
-
-<p align="center">
+  <img src="./assets/ratul-pixel.svg" width="165" height="165" align="center" alt="Mahmud Hasan Ratul" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ratul-notfound"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" width="115" alt="Portfolio" /></a>&nbsp;
   <a href="https://linkedin.com/in/mahmud-hasan-ratul"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" width="115" alt="LinkedIn" /></a>
   <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:m.h.ratul18@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" width="115" alt="Email" /></a>&nbsp;
   <a href="https://github.com/ratul-notfound"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" width="115" alt="GitHub" /></a>
 </p>
