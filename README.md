@@ -64,19 +64,26 @@ export default ratul;
 
 <div align="center">
 
+<!-- Row 1: Stats & Languages -->
 <a href="https://github.com/Ratul-NotFound">
-  <img height="175" src="https://github-stats-extended.vercel.app/api?username=Ratul-NotFound&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+  <img height="195" src="https://github-stats-extended.vercel.app/api?username=Ratul-NotFound&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
 </a>
+&nbsp;
 <a href="https://github.com/Ratul-NotFound">
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Ratul-NotFound&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&currStreakNum=00d9ff&sideNums=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-</a>
-<a href="https://github.com/Ratul-NotFound">
-  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ratul-NotFound&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&hide=Jupyter%20Notebook" alt="Top Languages" />
+  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ratul-NotFound&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&hide=Jupyter%20Notebook" alt="Top Languages" />
 </a>
 
-<br>
+<br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ratul-NotFound&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&area_color=00d9ff" alt="Activity Graph" />
+<!-- Row 2: Streak -->
+<a href="https://github.com/Ratul-NotFound">
+  <img width="850" src="https://github-readme-streak-stats.herokuapp.com/?user=Ratul-NotFound&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&currStreakNum=00d9ff&sideNums=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+</a>
+
+<br><br>
+
+<!-- Row 3: Activity Graph -->
+<img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=Ratul-NotFound&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&area_color=00d9ff" alt="Activity Graph" />
 
 </div>
 
